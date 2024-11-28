@@ -1,5 +1,10 @@
 {
   "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.21.1",
     "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
   }
 }
