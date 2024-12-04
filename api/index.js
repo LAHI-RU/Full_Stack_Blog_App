@@ -4,7 +4,7 @@ const app = express();
 
 app.use(cors());
 
-app.post("/regsiter", (req, res) => {
+app.post("/register", (req, res) => {
   res.json("test ok3");
 });
 
