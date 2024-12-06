@@ -11,3 +11,6 @@ app.post("/register", (req, res) => {
 });
 
 app.listen(4000);
+
+//connection string
+//password
