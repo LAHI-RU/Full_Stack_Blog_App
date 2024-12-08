@@ -12,5 +12,5 @@ app.post("/register", (req, res) => {
 
 app.listen(4000);
 
-//connection string
-//password
+//mongodb+srv://Mern-Blog:7yJdz0gNTpjjkSrG@cluster0.ucbln.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+//7yJdz0gNTpjjkSrG
